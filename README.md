@@ -1,33 +1,28 @@
-# Project
+# Around the Clock - Azure SQL and Azure Data Factory
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+Around the Clock - Azure SQL and Azure Data Factory is a free, 24-hour livestream event for data enthusiasts by enthusiasts. Azure Data Factory can do a lot of things, but it does Azure SQL really well! We will discuss this and more!
 
-As the maintainer of this project, please make a few updates:
+Visit [Around the Clock - Azure SQL and Azure Data Factory](http://aka.ms/aroundtheclock) to learn more and stream LIVE on [Learn TV](http://aka.ms/learntv) and [Microsoft Teams](https://teams.microsoft.com/l/team/19%3a77971b88d0484ecdad36b9582aae3885%40thread.tacv2/conversations?groupId=65d67a73-6ddd-4393-a915-413a1a137802&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47).
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+## What you will learn
 
-## Contributing
+This engineering event will focus on Azure SQL and Azure Data Factory. Experts, lead program managers, and principal architects will answer your questions live while also presenting various topics including:
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+- Serverless data integration
+- Understanding Service Level Objectives (SLO)
+- Best practices and performance optimizations
+- Creating a Data Architecture
+- Basic KQL for troubleshooting
+- Data security best practices
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+Get started learning and join the Azure Data Factory Hackathon to put your skills to the test!
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+## Missed the event or cannot attend live?
 
-## Trademarks
+Between the learning, work, family, fitness, reading, sleeping, binge-watching...we get it. Time is limited and priceless. That is why we will have this event available for on-demand to stream when you are available. View [on-demand content](https://aka.ms/azuresqlandadf) where you can view this event and more on-demand content to continue learning more. 
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+Still interested in getting more information during your own time? You can visit [Microsoft Learn](https://docs.microsoft.com/en-us/learn/paths/azure-sql-fundamentals/?WT.mc_id=event_aroundtheclock-reg) at any time to go through [modules](https://docs.microsoft.com/en-us/learn/paths/data-integration-scale-azure-data-factory/?WT.mc_id=event_aroundtheclock-reg), [read relevant documentation](https://docs.microsoft.com/en-us/azure/data-factory/introduction?WT.mc_id=event_aroundtheclock-reg), and stream live content on [Learn TV](http://aka.ms/learntv). 
+
+## Keep learning more
+
+Follow [@LearnTV](https://twitter.com/LearnTV) on Twitter to stay in touch about this event (#AroundTheClock) and future events and streams on [Learn TV](http://aka.ms/learntv). Connect with the Azure Data Factory Team on Twitter by following [@AZDataFactory](https://twitter.com/AzDataFactory).
