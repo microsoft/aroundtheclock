@@ -25,4 +25,4 @@ Still interested in getting more information during your own time? You can visit
 
 ## Keep learning more
 
-Follow [@LearnTV](https://twitter.com/LearnTV) on Twitter to stay in touch about this event (#AroundTheClock) and future events and streams on [Learn TV](http://aka.ms/learntv). Connect with the Azure Data Factory Team on Twitter by following [@AZDataFactory](https://twitter.com/AzDataFactory).
+Follow [@LearnTV](https://twitter.com/LearnTV) on Twitter to stay in touch about this event (#AroundTheClock) and future events and streams on [Learn TV](http://aka.ms/learntv). Connect with the Azure Data Factory Team on Twitter by following [@AZDataFactory](https://twitter.com/AzDataFactory) and with the Azure SQL Team by following [@AzureSQL](https://twitter.com/AzureSQL).
