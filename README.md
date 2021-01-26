@@ -21,20 +21,20 @@ Get started learning and join the Azure Data Factory Hackathon to put your skill
 
 | Time | Sessions | Direct Link |
 | ---- | -------- | ----------- |
-| 0900 – 1000 PT | Data Exposed Special | aka.ms/learntv |
-| 1000 - 1030 PT | Ask the Experts | aka.ms/learntv |
+| 0900 – 1000 PT | Data Exposed Special | [aka.ms/learntv](https://docs.microsoft.com/en-us/learn/tv/?WT.mc_ID=aroundtheclock-tbd-jemorg) |
+| 1000 - 1030 PT | Ask the Experts | [aka.ms/learntv](https://docs.microsoft.com/en-us/learn/tv/?WT.mc_ID=aroundtheclock-tbd-jemorg) |
 | 1030 - 1100 PT |	Break	| Break |
-| 1100 – 1120 PT | Serverless Data Integration with Azure SQL and Azure Data Factory | Teams Link |
-| 1130 - 1150 PT | Understanding Service Level Objectives (SLO) in Azure SQL | Teams Link |
+| 1100 – 1120 PT | Serverless Data Integration with Azure SQL and Azure Data Factory | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTkyNTNjYmItY2NlNC00MDQyLWJmN2UtYWIxMTQxYzVmZWRm%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e3806174-9671-4d2d-9bd6-ba68321a7447%22%2c%22IsBroadcastMeeting%22%3atrue%7d) |
+| 1130 - 1150 PT | Understanding Service Level Objectives (SLO) in Azure SQL | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWM4YzI3YmUtN2U0Ny00NDJlLTkyMTItMjY1MmQ4MjY0ZmU3%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e3806174-9671-4d2d-9bd6-ba68321a7447%22%2c%22IsBroadcastMeeting%22%3atrue%7d) |
 | 1200 - 1300	PT | Lunch Break | Break |
-| 1300 – 1320 PT | ADF Data Flows: Best practices and performance optimizations | Teams Link |
-| 1330 - 1350	PT | Creating a Data Architecture | Teams Link |
-| 1400 - 1420 PT | Your A-team: Azure Data Factory, Azure SQL, Azure DevOps | Teams Link |
-| 1430 – 1450 PT | Basic KQL for troubleshooting Azure SQL DB | Teams Link |
+| 1300 – 1320 PT | ADF Data Flows: Best practices and performance optimizations | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGY1ZDU2MmMtYmI1MC00M2FlLTliYzgtNDBmZjI2M2UwNDQ1%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e3806174-9671-4d2d-9bd6-ba68321a7447%22%2c%22IsBroadcastMeeting%22%3atrue%7d) |
+| 1330 - 1350	PT | Creating a Data Architecture | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjkyOGNlOTgtMzY2Zi00NGI2LWFlOWMtNWE0ZTNhNWQ0YWM4%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e3806174-9671-4d2d-9bd6-ba68321a7447%22%2c%22IsBroadcastMeeting%22%3atrue%7d) |
+| 1400 - 1420 PT | Your A-team: Azure Data Factory, Azure SQL, Azure DevOps | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjlkYmQ3ZDgtNTBhMC00YzgxLTk5NDktZWIzYjVjMjMzMmZj%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e3806174-9671-4d2d-9bd6-ba68321a7447%22%2c%22IsBroadcastMeeting%22%3atrue%7d) |
+| 1430 – 1450 PT | Basic KQL for troubleshooting Azure SQL DB | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Zjc2NjE3ZjItY2E3Yi00ZmY0LTg3MDctYmQ1OTNmNjJiZDIx%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e3806174-9671-4d2d-9bd6-ba68321a7447%22%2c%22IsBroadcastMeeting%22%3atrue%7d) |
 | 1500 - 1530	PT | Break | Break |
-| 1530 - 1550 PT | Develop with Azure SQL in the Browser | Teams Link |
-| 1600 - 1620 PT | Using SQL Data Sync in Azure SQL | Teams Link |
-| 1630 - 1650 PT | Hackathon - All you need to know to get started | Teams Link |
+| 1530 - 1550 PT | Develop with Azure SQL in the Browser | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmIwN2JhZDEtYzlkMi00YTBlLThmM2EtMDFkOGEwYjgwOGFm%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e3806174-9671-4d2d-9bd6-ba68321a7447%22%2c%22IsBroadcastMeeting%22%3atrue%7d) |
+| 1600 - 1620 PT | Using SQL Data Sync in Azure SQL | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDEwNmJiNDgtMDM5OC00NDIxLTk5Y2YtNmFiYTUwYjQwMDEw%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e3806174-9671-4d2d-9bd6-ba68321a7447%22%2c%22IsBroadcastMeeting%22%3atrue%7d) |
+| 1630 - 1650 PT | Hackathon - All you need to know to get started | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTEzY2M3NjUtYzlkNy00N2IyLWFkMzItMWYxOWM0ODM1MzY0%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e3806174-9671-4d2d-9bd6-ba68321a7447%22%2c%22IsBroadcastMeeting%22%3atrue%7d) |
 
 ## Agenda - APAC Timezone
 
