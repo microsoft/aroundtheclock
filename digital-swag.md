@@ -4,11 +4,11 @@
 
 Let's get to the good stuff. What swag will be offered at this event and the foreseeable future? Glad you asked!
 
-**Plant Trees to Benefit the Enviroment and Local Economies**
+**A Climate Postive / Carbon Negative Event**
 
-Every email, livestream, and action emits carbon and our goal is to be net-zero carbon neutral. Transparency is key and the Microsoft Developer Relations Event Team is still learning, but we are prioritizing sustainability efforts for our digital experiences. We have partnered with [Ecosia](https://info.ecosia.org/about), a search engine that plants trees for every search. 
+Every email, livestream, and action emits carbon and our goal is for our developer events to be net-zero carbon neutral or carbon negative (even better!). Transparency is key and the Microsoft Developer Relations Event Team is still learning, but we are prioritizing sustainability efforts for our digital experiences. We have partnered with [Tradewater](https://tradewater.us/) to offset the carbon emissions for the event to make it carbon negative!
 
-Additionally, this event specifically has gifted 960 trees to tackle climate change. You can add the [Ecosia extension](https://www.ecosia.org/) to your selected browser and visit the [Ecosia Pop-Up store](https://plant.ecosia.org/) to give and gift more trees!
+You can learn more about Tradewater's innovative technology to not only offset large amounts of carbon emissions through organizations or annual household footprints, but even offsetting your footprint from one cup of coffee. You have the power to offset your impact and Tradewater can help. [Learn more about Tradewater](https://tradewater.us/offsetnow/) and ways to get involved - no matter how large or small. Attending this event is a great first step!
 
 **Tech Stretch**
 
