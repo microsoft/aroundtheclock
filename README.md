@@ -6,6 +6,8 @@ Visit [Around the Clock - Azure SQL and Azure Data Factory](http://aka.ms/around
 
 Join the [Microsoft Teams Channel](https://teams.microsoft.com/l/team/19%3a77971b88d0484ecdad36b9582aae3885%40thread.tacv2/conversations?groupId=65d67a73-6ddd-4393-a915-413a1a137802&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)!
 
+Please note, Around the Clock - Azure SQL & Azure Data Factory is a climate positive event. We have partnered with [Tradewater](https://tradewater.us/) to offset the carbon emissions for the event to make it carbon negative! Learn more in the [Digital Swag](https://github.com/microsoft/aroundtheclock/blob/main/digital-swag.md) section of this repo.
+
 ## What you will learn
 
 This engineering event will focus on Azure SQL and Azure Data Factory. Experts, lead program managers, and principal architects will answer your questions live while also presenting various topics including:
