@@ -2,7 +2,9 @@
 
 Around the Clock - Azure SQL and Azure Data Factory is a free, 24-hour livestream event for data enthusiasts by enthusiasts. Azure Data Factory can do a lot of things, but it does Azure SQL really well! We will discuss this and more!
 
-Visit [Around the Clock - Azure SQL and Azure Data Factory](http://aka.ms/aroundtheclock) to learn more and stream LIVE on [Learn TV](http://aka.ms/learntv) and [Microsoft Teams](https://teams.microsoft.com/l/team/19%3a77971b88d0484ecdad36b9582aae3885%40thread.tacv2/conversations?groupId=65d67a73-6ddd-4393-a915-413a1a137802&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47).
+Visit [Around the Clock - Azure SQL and Azure Data Factory](http://aka.ms/aroundtheclock) to learn more and stream LIVE on [Learn TV](https://docs.microsoft.com/en-us/learn/tv/?WT.mc_ID=aroundtheclock-tbd-jemorg) and [Microsoft Teams](https://teams.microsoft.com/l/team/19%3a77971b88d0484ecdad36b9582aae3885%40thread.tacv2/conversations?groupId=65d67a73-6ddd-4393-a915-413a1a137802&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47).
+
+Join the [Microsoft Teams Channel](https://teams.microsoft.com/l/team/19%3a77971b88d0484ecdad36b9582aae3885%40thread.tacv2/conversations?groupId=65d67a73-6ddd-4393-a915-413a1a137802&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)!
 
 ## What you will learn
 
@@ -40,18 +42,18 @@ Get started learning and join the Azure Data Factory Hackathon to put your skill
 
 | Time | Sessions | Direct Link |
 | ---- | -------- | ----------- |
-| 1200 – 1230 SGT	| Ask the Experts | aka.ms/learntv |
+| 1200 – 1230 SGT	| Ask the Experts | [aka.ms/learntv](https://docs.microsoft.com/en-us/learn/tv/?WT.mc_ID=aroundtheclock-tbd-jemorg) |
 | 1230 - 1300 SGT |	Break	| Break |
-| 1300 – 1320 SGT | Hackathon - All you need to know to get started | Teams Link |
-| 1330 – 1350 SGT | Data ingestion performance optimizations | Teams Link |
-| 1400 - 1420 SGT | 7 Things you should know about Azure Data Factory | Break |
+| 1300 – 1320 SGT | Hackathon - All you need to know to get started | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTczMzgxODgtOGRkYy00ZDU0LTliM2QtZGViN2E1NDNmOWE2%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%229058ca99-ee17-4002-8d7e-2ea891eb7028%22%2c%22IsBroadcastMeeting%22%3atrue%7d) |
+| 1330 – 1350 SGT | Data ingestion performance optimizations | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjFmOTcxOWItMmJjZC00NjcyLWIxMDEtNWUzM2NlNTUwZWYx%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%229058ca99-ee17-4002-8d7e-2ea891eb7028%22%2c%22IsBroadcastMeeting%22%3atrue%7d) |
+| 1400 - 1420 SGT | 7 Things you should know about Azure Data Factory | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWU4MzY0ODctNmEwYy00ZjU5LWI2NWItMTdlMzdhOGQ5NTM2%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%229058ca99-ee17-4002-8d7e-2ea891eb7028%22%2c%22IsBroadcastMeeting%22%3atrue%7d) |
 | 1430 – 1520 SGT | Break | Break |
-| 1530 – 1550 SGT | Data security best practices for data engineers using Data Factory | Teams Link |
+| 1530 – 1550 SGT | Data security best practices for data engineers using Data Factory | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODk4Yjg1MjAtMzYyMi00ZTJjLTlkZmUtYjBhOTBkMTAzNTFh%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%229058ca99-ee17-4002-8d7e-2ea891eb7028%22%2c%22IsBroadcastMeeting%22%3atrue%7d) |
 | 1600 – 1700 SGT | Break | Break |
-| 1700 – 1720 SGT | Blast to The Future: Accelerating Legacy SSIS Migrations with Azure SQL and ADF | Teams Link |
-| 1730 – 1750 SGT | Best practices using Azure SQL as Sink in ADF | Teams Link |
-| 1800 – 1820 SGT | Patterns and best practices of using ADF for data ingestion | Teams Link |
-| 1830 – 1850 SGT | Securing your Azure SQL Database | Teams Link |
+| 1700 – 1720 SGT | Blast to The Future: Accelerating Legacy SSIS Migrations with Azure SQL and ADF | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzBlOTYyZDgtNDdiZi00ZWMyLWExN2YtMTJjNDM0MzA0NTYz%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%229058ca99-ee17-4002-8d7e-2ea891eb7028%22%2c%22IsBroadcastMeeting%22%3atrue%7d) |
+| 1730 – 1750 SGT | Best practices using Azure SQL as Sink in ADF | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmM2ODgwZmYtNmJjZC00NDc0LTk2YTgtNGU3YWU2YjAxMGJm%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%229058ca99-ee17-4002-8d7e-2ea891eb7028%22%2c%22IsBroadcastMeeting%22%3atrue%7d) |
+| 1800 – 1820 SGT | Patterns and best practices of using ADF for data ingestion | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWMyYjEwZDItYmJlYy00M2E3LWJkMGUtMWM1MzliZjA1OWY4%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%229058ca99-ee17-4002-8d7e-2ea891eb7028%22%2c%22IsBroadcastMeeting%22%3atrue%7d) |
+| 1830 – 1850 SGT | Securing your Azure SQL Database | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTk3NTM3YTUtOWUwOC00NTkwLWFlZGQtYWYwYjg1MjNlZmEw%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%229058ca99-ee17-4002-8d7e-2ea891eb7028%22%2c%22IsBroadcastMeeting%22%3atrue%7d) |
 
 ## Missed the event or cannot attend live?
 
