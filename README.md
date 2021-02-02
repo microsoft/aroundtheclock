@@ -21,6 +21,8 @@ This engineering event will focus on Azure SQL and Azure Data Factory. Experts, 
 
 Get started learning and join the Azure Data Factory Hackathon to put your skills to the test!
 
+Download and view all of the presentations from the event [here](https://github.com/microsoft/aroundtheclock/tree/main/PDFs).
+
 ## Agenda - US Timezone
 
 | Time | Sessions | Direct Link |
